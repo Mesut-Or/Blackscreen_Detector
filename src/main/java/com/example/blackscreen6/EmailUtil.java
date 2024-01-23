@@ -34,8 +34,8 @@ public class EmailUtil {
     }
 
     public static void sendAlert(String message) {
-        // Implement your email sending or alerting logic here
+
         System.out.println(message);
-        // EmailUtil.sendEmail(...);  // Example call to send an email
+        // EmailUtil.sendEmail(...);
     }
 }
